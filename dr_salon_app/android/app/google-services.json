@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482133034652",
+    "project_id": "ai-powered-salon",
+    "storage_bucket": "ai-powered-salon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482133034652:android:ab88a2f3a8dfb69ab48f59",
+        "android_client_info": {
+          "package_name": "com.example.dr_salon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpRg0NWRoKaEM2TusUHJ5EnvmyYBgLiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
